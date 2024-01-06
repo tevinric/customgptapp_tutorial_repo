@@ -1,3 +1,4 @@
+#
 services:
   streamlit:
     image: <ContainerRegistryName>.azurecr.io/<ImageName>
